@@ -2,3 +2,5 @@
 data/
 .git
 .ipynb_checkpoints
+__pycache__/
+dataset.hd5
